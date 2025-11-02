@@ -1,3 +1,3 @@
-# test-repo
+# The main page
 
-A test - 1
+A test - 2
